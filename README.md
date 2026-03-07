@@ -68,6 +68,8 @@ Me chamo Ariel Menezes, sou desenvolvedor FullStack, porém, focado mais em back
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" 
 />
 
-##
+
+
+###
 
 Nunca satisfeito, sempre em busca de mais conhecimento.

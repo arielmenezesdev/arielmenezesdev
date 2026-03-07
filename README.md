@@ -69,7 +69,7 @@ Me chamo Ariel Menezes, sou desenvolvedor FullStack, porém, focado mais em back
 />
 
 
-
----
+</br>
+--
 
 Nunca satisfeito, sempre em busca de mais conhecimento.

@@ -3,7 +3,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Ariel Menezes, sou desenvolvedor FullStack, porém, focado mais em backend, atualmente trabalhando uma empresa agritech, onde desenvolvemos uma aplicação totalmente web para atender a área do agronegócio, utilizando os framework .NET(C#) e Angular(TypeScrypt).
+Me chamo Ariel Menezes, sou desenvolvedor FullStack, porém, focado mais em backend, atualmente trabalhando uma empresa agritech, onde desenvolvemos uma aplicação totalmente web para atender a área do agronegócio, utilizando os framework .NET(C#), Angular(TypeScrypt) e banco de dados o PostgreSQL.
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/arielmamorim)
